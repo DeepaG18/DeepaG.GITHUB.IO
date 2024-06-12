@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]()
 <h1 align="center">Hi 👋, I'm Deepa Gupta</h1>
 <h3 align="center">A passionate student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepaG18&label=Profile%20views&color=0e75b6&style=flat" alt="DeepaG18" /> </p>
